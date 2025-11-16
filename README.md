@@ -13,3 +13,10 @@ Mohammed Busbait - 202100297
 
 References: https://academybugs.com/store/?ec_search=#
 https://bugzilla52.allizgub.org/
+
+
+
+[Assignment 2 Software Testing.pdf](https://github.com/user-attachments/files/23570836/Assignment.2.Software.Testing.pdf)
+
+
+
